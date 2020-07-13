@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="manage_coupons" transform="translate(891 -944)">
+    <rect id="Rectangle_658" data-name="Rectangle 658" width="54" height="54" transform="translate(-891 944)" fill="none"/>
+    <g id="voucher" transform="translate(-938.692 881.639) rotate(-30)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0 103.385)">
+        <path id="Path_309" data-name="Path 309" d="M39.182,111.9a1.163,1.163,0,0,0,1.164-1.161v-6.194a1.163,1.163,0,0,0-1.164-1.161h-25.6v5.806a1.164,1.164,0,0,1-2.328,0v-5.806H1.164A1.163,1.163,0,0,0,0,104.546v6.194A1.163,1.163,0,0,0,1.164,111.9a3.484,3.484,0,1,1,0,6.968A1.163,1.163,0,0,0,0,120.03v6.194a1.163,1.163,0,0,0,1.164,1.161H11.25v-5.806a1.164,1.164,0,0,1,2.328,0v5.806h25.6a1.163,1.163,0,0,0,1.164-1.161V120.03a1.163,1.163,0,0,0-1.164-1.161,3.484,3.484,0,1,1,0-6.968Zm-25.6,5.032a1.164,1.164,0,0,1-2.328,0v-3.1a1.164,1.164,0,0,1,2.328,0Z" transform="translate(0 -103.385)" fill="#1d87cd"/>
+      </g>
+    </g>
+  </g>
+</svg>
